@@ -1,4 +1,4 @@
-# Lab_Programacion2_FING_2024
+# Laboratorio Programacion 2 FING 2024
 Proyecto del curso Programación 2 - Facultad de Ingeniería - UdelaR - Semestre par 2024
 
 # Descripción
