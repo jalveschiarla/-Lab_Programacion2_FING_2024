@@ -1,0 +1,31 @@
+# ===== Compilación C++ =====
+*.o
+*.out
+*.exe
+
+# Ejecutables
+principal
+main
+a.out
+
+# Carpetas de compilación
+obj/
+bin/
+
+# ===== Entregas =====
+*.tar.gz
+*.zip
+
+# ===== Tests generados =====
+test/*.out
+
+# ===== IDEs =====
+.vscode/
+.idea/
+
+# ===== Archivos temporales =====
+*~
+*.swp
+
+# ===== Archivos locales =====
+claves.txt
