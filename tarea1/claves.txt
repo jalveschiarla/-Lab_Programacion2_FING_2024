@@ -1,0 +1,3 @@
+8e15261ccecd72cde310bfc561ad0cf87b2828e6  src/fecha.cpp
+f0cae87a4bf8516a15e7b0d7da8fc5fc9676b237  src/persona.cpp
+c1a24a233e06bf468bed0f3344b598d4ca6eb34e  src/grupo.cpp
